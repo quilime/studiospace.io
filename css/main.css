@@ -1,2 +1,18 @@
 body {
+    background-image: url('/media/studiospace_001.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1 a {
+  text-decoration:none;
+}
+a {
+  text-decoration:underline;
+}
+div.post {
+  max-width:800px;
+  margin: 0 auto;
+  background:#fff;
+  padding:2em;
 }
