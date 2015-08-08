@@ -1,11 +1,12 @@
 ---
 layout: page
 title: studiospace
-background-image: /media/gallery.jpg
+background-image: /media/sunset.jpg
 ---
 
-## About
+# Studiospace
 
+## About
 
 Studiospace is an artist-run creative space with natural light, perfect for film and photo shoots, performance, art events/installations, art/product documentation, meetups, workshops, art shows, gallery, and other creative use.
 
