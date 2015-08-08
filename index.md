@@ -52,6 +52,12 @@ Located in Emeryville with free shuttle service from MacArthur Bart.
 
 ![](/media/floorplan.png)
 
+<br /><br/>
+
+Contact us for your event/project!
+
+![Image Alt](http://big.assets.huffingtonpost.com/slide_297900_2460087_free.gif)
+
 <!--
 ![](/media/Screen Shot 2015-06-27 at 2.01.03 PM.png)
 
@@ -60,6 +66,4 @@ Located in Emeryville with free shuttle service from MacArthur Bart.
 ![](/media/Screen Shot 2015-08-08 at 1.44.24 PM.png)
 
 ![](/media/Screen Shot 2015-06-27 at 1.37.57 PM.png)
-
-![Image Alt](http://big.assets.huffingtonpost.com/slide_297900_2460087_free.gif)
 -->
