@@ -10,6 +10,8 @@ background-image: /media/sunset.jpg
 
 Studiospace is an artist-run creative space with natural light, perfect for film and photo shoots, performance, art events/installations, art/product documentation, meetups, workshops, art shows, gallery, and other creative use.
 
+![](/media/Screen Shot 2015-08-08 at 1.44.36 PM.png)
+
 Featuring cement floors, full kitchen, and dressing room/shower/bathroom. Freight Elevator for load in/out. 2 double-door entrances/exits.
 
   - 1400 sq ft concrete floor studio
@@ -29,6 +31,18 @@ Featuring cement floors, full kitchen, and dressing room/shower/bathroom. Freigh
   - Restaurants within walking distance
   - Free Emery-Go-Round shuttle to and from Macarthur BART
   - Street Parking
+
+## Floorplan
+
+![](/media/floorplan.png)
+
+## Images
+
+![](/media/studiospace.jpg)
+
+![](/media/Screen Shot 2015-08-08 at 12.08.31 PM.png)
+
+
 
 ## Contact / Booking
 
@@ -50,20 +64,6 @@ Feel free to email us with more info about your event/project.
 
 Or email us directly at <a href="mailto:studiospaceinfo@gmail.com">studiospaceinfo@gmail.com</a>.
 
-## Images
-
-![](/media/Screen Shot 2015-08-08 at 1.44.36 PM.png)
-
-![](/media/Screen Shot 2015-08-08 at 12.08.31 PM.png)
-
-![](/media/Screen Shot 2015-08-08 at 1.44.29 PM.png)
-
-![](/media/Screen Shot 2015-06-27 at 2.01.08 PM.jpg)
-
-## Floorplan
-
-![](/media/floorplan.png)
-
 
 ## Location
 
@@ -74,7 +74,7 @@ Located in Emeryville with free shuttle service from MacArthur Bart.
 
 <br /><br />
 
-Contact us for your event/project!
+Contact us for your project or event!
 
 ![Image Alt](http://big.assets.huffingtonpost.com/slide_297900_2460087_free.gif)
 
