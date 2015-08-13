@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
+{% if page.background-image %}
 <style>
 body {
   background-image: url('{{ page.background-image }}');
 }
 </style>
-
-{% include menu.html %}
-
+{% endif %}
 <div class="post">
-
   {{ content }}
-
 </div>

@@ -7,15 +7,31 @@ body {
 }
 h1 {
   border:0;
-  color:#000;
   font-size:4em;
+}
+h1 a {
+  text-decoration:none;
+  color:inherit;
+}
+h1 a:hover {
+  text-decoration:underline;
 }
 a {
   text-decoration:underline;
 }
-div.post {
+div.menu, div.post {
   max-width:800px;
   margin: 0 auto;
   background:#fff;
   padding:2em;
+}
+
+div.menu ul {
+  margin:0;
+  padding:0;
+}
+div.menu li {
+  font-weight:bold;
+  display:inline-block;
+  margin-right:0.5em;
 }

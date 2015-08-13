@@ -4,8 +4,6 @@ title: studiospace
 background-image: /media/sunset.jpg
 ---
 
-# Studiospace
-
 ## About
 
 Studiospace is an artist-run creative space with natural light, perfect for film and photo shoots, performance, art events/installations, art/product documentation, meetups, workshops, art shows, gallery, and other creative use.
@@ -42,7 +40,7 @@ Featuring cement floors, full kitchen, and dressing room/shower/bathroom. Freigh
 
 ![](/media/Screen Shot 2015-08-08 at 12.08.31 PM.png)
 
-
+![](/media/sunset2.jpg)
 
 ## Contact / Booking
 
