@@ -42,7 +42,7 @@ Featuring cement floors, full kitchen, and dressing room/shower/bathroom. Freigh
 
 ![](/media/sunset2.jpg)
 
-## Contact / Booking
+## Contact
 
 Feel free to email us with more info about your event/project.
 
