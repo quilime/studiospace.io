@@ -65,12 +65,7 @@ Or email us directly at <a href="mailto:studiospaceinfo@gmail.com">studiospacein
 
 ## Location
 
-Located in Emeryville with free shuttle service from MacArthur Bart.
-
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:500px;width:600px;"><div id="gmap_canvas" style="height:500px;width:600px;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://www.themecircle.net/news-magazine/" id="get-map-data">StudioSpace</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:11,center:new google.maps.LatLng(37.8427088,-122.29175229999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(37.8427088, -122.29175229999998)});infowindow = new google.maps.InfoWindow({content:"<b>StudioSpace</b><br/>1552 62nd st<br/>94608 Emeryville" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});}google.maps.event.addDomListener(window, 'load', init_map);</script>
-
-
-<br /><br />
+Located in Emeryville, CA
 
 Contact us for your project or event!
 
