@@ -69,9 +69,11 @@ Located in Emeryville, CA
 
 Contact us for your project or event!
 
+<!--
+
 ![Image Alt](http://big.assets.huffingtonpost.com/slide_297900_2460087_free.gif)
 
-<!--
+
 ![](/media/Screen Shot 2015-06-27 at 2.01.03 PM.png)
 
 ![](/media/Screen Shot 2015-06-27 at 2.01.13 PM.jpeg)
