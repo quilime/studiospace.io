@@ -36,13 +36,17 @@ Featuring cement floors, full kitchen, and dressing room/shower/bathroom. Freigh
 
 ## Images
 
-
-<img src="/media/studiospace.jpg" style="width:100%;"/>
-
 <img src="/media/Screen Shot 2016-08-13 at 10.46.38 AM.png" style="width:100%;"/>
 
 <img src="/media/Screen Shot 2016-08-13 at 10.46.15 AM.png" style="width:100%;"/>
 
+<img src="/media/studiospace.jpg" style="width:100%;"/>
+
+<img src="/media/Screen Shot 2015-06-27 at 2.01.13 PM.jpeg" style="width:100%;"/>
+
+<img src="/media/Screen Shot 2015-06-27 at 2.01.13 PM.jpeg" style="width:100%;"/>
+
+<img src="/media/Screen Shot 2016-08-13 at 10.46.30 AM.png" style="width:100%;"/>
 
 ## Contact
 
