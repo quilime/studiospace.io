@@ -30,11 +30,12 @@ Features of the main space:
 
 ## About Us
 
-We are Gabriel and Stephanie, both artists, and and have lived in this space for 
-4 years. Stephanie is working full time on her MFA at Stanford. Gabe works out 
-of the space, but  will be traveling most of October. We're looking for someone 
-for October and November to sublet the private room in the second level of the loft. 
-We look forward to meeting you seeing if you're a good fit!
+We are Gabriel and Stephanie, and and have lived in this space for 
+4 years. Stephanie is an artist working full time on her MFA at Stanford. Gabe is
+an artist and designer and works out of the space, but will be traveling most of 
+October. We're looking for someone for October and November to sublet the private 
+room in the second level of the loft. We look forward to meeting you seeing if 
+you're a good fit!
 
 ## Room
 <img src="/media/room/57b6ffd8-125a-4cb7-adbc-a8d29cb1368f.jpg" style="width:100%;"/>
