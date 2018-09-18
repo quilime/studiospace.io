@@ -28,14 +28,6 @@ Features of the main space:
   - Free Emery-Go-Round shuttle to and from Macarthur BART
   - Street Parking
 
-## About Us
-
-We are Gabriel and Stephanie. Stephanie is an artist working full time on her 
-MFA at Stanford. Gabe is an artist and designer and works out of the space, 
-but will be traveling most of October. We're looking for someone for October 
-and November to sublet the private room in the second level of the loft. 
-We look forward to meeting you seeing if you're a good fit!
-
 ## Room
 <img src="/media/room/57b6ffd8-125a-4cb7-adbc-a8d29cb1368f.jpg" style="width:100%;"/>
 <img src="/media/room/86050ab2-13b0-4d57-bb79-92f8cb45129b.jpg" style="width:100%;"/>
@@ -62,6 +54,11 @@ We look forward to meeting you seeing if you're a good fit!
 
 
 ## Contact
+
+We are Gabriel (M/37) and Stephanie (F/36). Stephanie is an artist working full time on her 
+MFA at Stanford. Gabe is an artist and designer and works out of the space, 
+but will be traveling most of October. We're looking for someone for October 
+and November to sublet the private room in the second level of the loft. 
 
 Looking forward to hearing from you!
 
