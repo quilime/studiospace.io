@@ -6,11 +6,12 @@ background-image: /media/sunset.jpg
 
 ## Room Sublet
 
-2-month sublet available in room in artist live/work loft.
+2-month sublet available in room in artist live/work loft. The room features
+a built-in twinXL bed.
 
 Available October and November
 
-$ 1600 per month, all utilities and wifi included.
+$ 1600 per month, all utilities and WiFi included
 
 Features of the main space:
 
