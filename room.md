@@ -18,9 +18,9 @@ Features of the main space:
   - North/South facing windows (all-day natural light)
   - Skylights
   - WIFI
+  - Music Studio
   - Restroom/Dressing Room w/Full Length Mirror
   - Kitchen
-  - Coffee/Tea
   - Minifridge
   - Cafe/Coffee Shop in building
   - Restaurants within walking distance
@@ -31,7 +31,7 @@ Features of the main space:
 
 We are Gabriel and Stephanie, both artists, and and have lived in this space for 
 4 years, and we're in the final months of our lease. Stephanie is full time at 
-Stanford and won't be around too often, if at all. Gabe will be traveling most 
+Stanford and won't be around too often. Gabe will be traveling most 
 of October. We're looking for someone for October and November to sublet the private
 room in the second level of the loft. We look forward to meeting you seeing if you're a good fit!
 
@@ -63,7 +63,7 @@ room in the second level of the loft. We look forward to meeting you seeing if y
 
 ## Contact
 
-Looking forward to hear from you!
+Looking forward to hearing from you!
 
 <form action="//formspree.io/studiospaceinfo@gmail.com" method="POST">
 
