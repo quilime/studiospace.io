@@ -40,7 +40,6 @@ room in the second level of the loft. We look forward to meeting you seeing if y
 <img src="/media/room/86050ab2-13b0-4d57-bb79-92f8cb45129b.jpg" style="width:100%;"/>
 <img src="/media/room/Screen Shot 2018-09-17 at 5.17.43 PM.png" style="width:100%;"/>
 <img src="/media/room/Screen Shot 2018-09-17 at 5.17.51 PM.png" style="width:100%;"/>
-<img src="/media/room/Screen Shot 2018-09-17 at 5.17.58 PM.png" style="width:100%;"/>
 <img src="/media/room/Screen Shot 2018-09-17 at 5.18.06 PM.png" style="width:100%;"/>
 <img src="/media/room/Screen Shot 2018-09-17 at 5.18.13 PM.png" style="width:100%;"/>
 <img src="/media/room/947380ca-ca1b-4dff-b5c6-536538678d8c.jpg" style="width:100%;"/>
