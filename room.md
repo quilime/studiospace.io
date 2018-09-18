@@ -6,21 +6,24 @@ background-image: /media/sunset.jpg
 
 ## Room Sublet
 
-2-month sublet available in room in artist live/work loft. The room features
-a built-in twinXL bed.
+We are Gabriel (M/37) and Stephanie (F/36). Stephanie is an artist working 
+full time on her MFA at Stanford. Gabe is an artist and designer and works out 
+of the space, but will be traveling most of October. We're looking for someone 
+for Oct and Nov to sublet a private room in the second level of our loft+gallery.
+The room features a built-in twinXL bed.
+
+2-month sublet
 
 Available October and November
 
-$ 1600 per month, all utilities and WiFi included
+$ 1600 per month, all utilities and internet included
 
 Features of the main space:
 
   - 30+ foot ceilings
   - North/South facing windows (all-day natural light)
   - Skylights
-  - WIFI
-  - Music Studio
-  - Restroom/Dressing Room w/Full Length Mirror
+  - Restroom w/Full Length Mirror
   - Kitchen
   - Minifridge
   - Cafe/Coffee Shop in building
@@ -54,11 +57,6 @@ Features of the main space:
 
 
 ## Contact
-
-We are Gabriel (M/37) and Stephanie (F/36). Stephanie is an artist working full time on her 
-MFA at Stanford. Gabe is an artist and designer and works out of the space, 
-but will be traveling most of October. We're looking for someone for October 
-and November to sublet the private room in the second level of the loft. 
 
 Looking forward to hearing from you!
 
